@@ -239,4 +239,4 @@ This repository serves as the official landing page for Genymotion. The software
 **Get the most recent version of Genymotion today!**
 
 ---
-**Last updated:** 2026-09-23 10:56:37 UTC
+**Last updated:** 2026-09-23 15:22:27 UTC
